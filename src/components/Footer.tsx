@@ -79,7 +79,7 @@ const Footer = () => {
             <ul className="space-y-2 text-sm text-white/70">
               <li>General Medicine</li>
               <li>Cardiology</li>
-              <li>Orthopedics</li>
+              <li>Ortho</li>
               <li>Pediatrics</li>
               <li>Emergency Care</li>
             </ul>
